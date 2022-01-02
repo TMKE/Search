@@ -14,3 +14,4 @@ Use the command `search --help` to view the different options:
 ```bash
 search --help
 ```
+![image](https://user-images.githubusercontent.com/73914792/147873771-5e34d698-2074-4eb1-b97c-e10a80817156.png)
