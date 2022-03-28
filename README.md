@@ -5,7 +5,7 @@ Compile the `.c` file using the following command:
 ```bash
 gcc search.c -o search
 ```
-Next, move the executable `search` file (the output of the previous command) to your `/usr/bin` folder so that you can execute the command from any directory you are in.
+Next, move the executable `search` file (the output of the previous command) to your `/usr/bin` folder so that you can execute the command anywhere.
 ```bash
 mv search /usr/bin
 ```
